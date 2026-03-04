@@ -11,7 +11,7 @@ This repository showcases in-progress projects in computational neuroscience, ne
 
 2. **Spiking Neural Network Simulation**  
    - Goal: Model cortical microcircuits using excitatory/inhibitory neurons and STDP  
-   - Status: In Progress  
+   - Status: In Progress   
    - [Project folder](Spiking_NN_Simulation/)
 
 3. **Alzheimer’s CNN Classification**  
